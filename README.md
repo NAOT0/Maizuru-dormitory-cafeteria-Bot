@@ -1,6 +1,6 @@
 # 寮食堂献立LINE Bot ～ズボラな高専生へ～
 
-[![友だち追加](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://line.me/R/ti/p/%40232xflty)
+[![友だち追加](https://scdn.line-apps.com/n/line_add_friends/btn/ja.png)](https://line.me/R/ti/p/@976uafdi)
 
 舞鶴工業高等専門学校の寮食堂の献立を、もっと手軽に確認するために開発したLINE Botです。このBotの開発秘話は、[LINE Developer CommunityのLT大会](https://www.youtube.com/watch?v=qLdPqgF0EnA)でも発表させていただきました。
 
@@ -35,7 +35,6 @@
 ### 1. 献立の確認
 リッチメニューのボタンをタップするだけで、その日の献立が画像で表示されます。 もちろん、明日の献立も確認可能です。
 
-<img src="https://i.imgur.com/8QOapfS.png" width="300">
 
 ### 2. 欠食届の注意喚起
 週末に寮の食事が必要ない場合、水曜日までに「欠食届」を提出する必要がありますが、これは寮生が忘れがちなことNo.1です。 そこで、提出期限が近づくと注意喚起のメッセージを送信する機能をつけました。
